@@ -14,9 +14,24 @@ const M_HEADER_ROWS = 3;
 // - The fourth column is if they've replied.
 const M_HEADER_COLS = 4;
 
-// Currently there are five metadata rows before the timeslot row.
+// Currently there are this many metadata rows before the timeslot row.
 $a_csv = file('./availability.csv');
-const A_PRE_HEADER_ROWS = 5;
+const A_PRE_HEADER_ROWS = 8;
+
+// Get the meeting names from the first header row and remove it.
+$meeting_names = array_shift($m_csv);
+$meeting_names = explode(',', $meeting_names);
+
+// Also remove additional header rows from the meeting list. Start from 1 since
+// we already removed the first one.
+for ($i = 1; $i < M_HEADER_ROWS; $i++) {
+  array_shift($m_csv);
+}
+
+// Remove the pre-header rows from the availability sheet.
+for ($i = 0; $i < A_PRE_HEADER_ROWS; $i++) {
+  array_shift($a_csv);
+}
 
 // str_getcsv() doesn't work for some reason.
 // Closures because I can.
@@ -27,14 +42,12 @@ array_walk($a_csv, function(&$row) {
   $row = explode(',', $row);
 });
 
-// Get the meeting names from the first header row and remove it.
-$meeting_names = array_shift($m_csv);
+// Get the names of the timeslots and remove the first two name columns.
+$timeslots = array_shift($a_csv);
+array_shift($timeslots);
+array_shift($timeslots);
 
-// Also remove additional header rows from the meeting list. Start from 1 since
-// we already removed the first one.
-for ($i = 1; $i < M_HEADER_ROWS; $i++) {
-  array_shift($m_csv);
-}
+
 
 // Assemble an associative array of the stakeholders for each meeting.
 $meetings = array();
@@ -60,16 +73,6 @@ foreach ($m_csv as $attendee_row) {
     }
   }
 }
-
-// Remove the pre-header rows from the availability sheet.
-for ($i = 0; $i < A_PRE_HEADER_ROWS; $i++) {
-  array_shift($a_csv);
-}
-
-// Get the names of the timeslots and remove the first two name columns.
-$timeslots = array_shift($a_csv);
-array_shift($timeslots);
-array_shift($timeslots);
 
 // Make an associative array of the availability keyed by attendee.
 $availability = array();
