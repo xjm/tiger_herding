@@ -1,0 +1,879 @@
+
+*************************
+Possible times for request attributes beta blockers:
+
+June 2nd (Mon) AM  catch znerol missing
+(effulgentsia tim.plunkett dawehner msonnabaum maybe)
+
+June 2nd (Mon) PM  catch znerol missing
+(effulgentsia tim.plunkett dawehner msonnabaum maybe)
+
+June 3rd (Tue) AM  catch crell znerol missing
+(effulgentsia moshe weitzman tim.plunkett dawehner msonnabaum maybe)
+
+June 3rd (Tue) PM  catch crell znerol missing
+(effulgentsia moshe weitzman tim.plunkett dawehner msonnabaum maybe)
+
+June 4th (Wed) AM  catch crell znerol missing
+(effulgentsia moshe weitzman tim.plunkett dawehner msonnabaum maybe)
+
+June 4th (Wed) PM  catch crell znerol missing
+(effulgentsia moshe weitzman tim.plunkett dawehner msonnabaum maybe)
+
+June 5th (Thu) AM  catch crell znerol missing
+(effulgentsia moshe weitzman tim.plunkett dawehner msonnabaum maybe)
+
+June 5th (Thu) PM  catch crell znerol missing
+(effulgentsia moshe weitzman tim.plunkett dawehner msonnabaum maybe)
+
+June 6th (Fri) AM  catch znerol missing
+(dawehner maybe)
+
+June 6th (Fri) PM  catch znerol missing
+(dawehner maybe)
+
+
+*************************
+Possible times for CMI meetings:
+
+June 1st (Sun) AM  gã¡bor hojtsy mtift missing
+(zendoodles maybe)
+
+June 1st (Sun) PM  gã¡bor hojtsy missing
+(mtift zendoodles maybe)
+
+June 2nd (Mon) AM
+(gã¡bor hojtsy remote)
+
+June 2nd (Mon) PM  gã¡bor hojtsy missing
+
+June 3rd (Tue) AM
+(alexpott xjm mtift zendoodles maybe)
+(gã¡bor hojtsy remote)
+
+June 3rd (Tue) PM  gã¡bor hojtsy missing
+(alexpott xjm mtift zendoodles maybe)
+
+June 4th (Wed) AM
+(alexpott xjm mtift zendoodles maybe)
+(gã¡bor hojtsy remote)
+
+June 4th (Wed) PM  gã¡bor hojtsy missing
+(alexpott xjm mtift zendoodles maybe)
+
+June 5th (Thu) AM
+(alexpott xjm mtift zendoodles maybe)
+(gã¡bor hojtsy remote)
+
+June 5th (Thu) PM  gã¡bor hojtsy missing
+(alexpott xjm mtift zendoodles maybe)
+
+June 6th (Fri) AM  zendoodles missing
+(gã¡bor hojtsy remote)
+
+June 6th (Fri) PM  gã¡bor hojtsy zendoodles missing
+
+June 7th (Sat) AM  gã¡bor hojtsy missing
+
+June 7th (Sat) PM  gã¡bor hojtsy missing
+
+June 8th (Sun) AM  gã¡bor hojtsy missing
+(mtift zendoodles maybe)
+
+
+*************************
+Possible times for Entity Field storage beta blockers:
+
+June 1st (Sun) AM  gã¡bor hojtsy yched swentel amateescu tstoeckler missing
+(fago plach maybe)
+(berdir remote)
+
+June 1st (Sun) PM  gã¡bor hojtsy yched amateescu tstoeckler missing
+(fago swentel plach maybe)
+(berdir remote)
+
+June 2nd (Mon) AM  amateescu plach tstoeckler missing
+(effulgentsia fago maybe)
+(gã¡bor hojtsy berdir yched swentel remote)
+
+June 2nd (Mon) PM  gã¡bor hojtsy yched swentel amateescu plach missing
+(effulgentsia fago tstoeckler maybe)
+(berdir remote)
+
+June 3rd (Tue) AM  berdir amateescu tstoeckler missing
+(xjm effulgentsia fago plach maybe)
+(gã¡bor hojtsy yched swentel remote)
+
+June 4th (Wed) AM  berdir amateescu tstoeckler missing
+(xjm effulgentsia fago plach maybe)
+(gã¡bor hojtsy yched swentel remote)
+
+June 4th (Wed) PM  gã¡bor hojtsy berdir yched swentel amateescu missing
+(xjm effulgentsia fago plach tstoeckler maybe)
+
+June 5th (Thu) AM  berdir amateescu tstoeckler missing
+(xjm effulgentsia fago plach maybe)
+(gã¡bor hojtsy yched swentel remote)
+
+June 5th (Thu) PM  gã¡bor hojtsy berdir yched swentel amateescu missing
+(xjm effulgentsia fago plach tstoeckler maybe)
+
+June 6th (Fri) AM  berdir amateescu tstoeckler missing
+(gã¡bor hojtsy yched swentel remote)
+
+June 7th (Sat) AM  effulgentsia gã¡bor hojtsy yched amateescu tstoeckler missing
+(fago maybe)
+(berdir swentel remote)
+
+
+*************************
+Possible times for CMI schemata:
+
+June 1st (Sun) PM  gã¡bor hojtsy reyero missing
+(mtift maybe)
+(vijaycs85 remote)
+
+June 2nd (Mon) AM  vijaycs85 reyero missing
+(gã¡bor hojtsy remote)
+
+June 2nd (Mon) PM  gã¡bor hojtsy reyero missing
+(vijaycs85 maybe)
+
+June 3rd (Tue) AM  vijaycs85 reyero missing
+(alexpott xjm mtift maybe)
+(gã¡bor hojtsy remote)
+
+June 3rd (Tue) PM  gã¡bor hojtsy reyero missing
+(alexpott xjm mtift vijaycs85 maybe)
+
+June 4th (Wed) AM  vijaycs85 reyero missing
+(alexpott xjm mtift maybe)
+(gã¡bor hojtsy remote)
+
+June 4th (Wed) PM  gã¡bor hojtsy reyero missing
+(alexpott xjm mtift vijaycs85 maybe)
+
+June 5th (Thu) AM  vijaycs85 reyero missing
+(alexpott xjm mtift maybe)
+(gã¡bor hojtsy remote)
+
+June 5th (Thu) PM  gã¡bor hojtsy reyero missing
+(alexpott xjm mtift vijaycs85 maybe)
+
+June 6th (Fri) AM  vijaycs85 reyero missing
+(gã¡bor hojtsy remote)
+
+June 6th (Fri) PM  gã¡bor hojtsy reyero missing
+(vijaycs85 remote)
+
+June 7th (Sat) PM  gã¡bor hojtsy reyero missing
+(vijaycs85 remote)
+
+
+*************************
+Possible times for Twig autoescape:
+
+June 2nd (Mon) AM  catch david_rothstein missing
+(effulgentsia cottser maybe)
+(gã¡bor hojtsy remote)
+
+June 2nd (Mon) PM  catch david_rothstein gã¡bor hojtsy missing
+(effulgentsia cottser maybe)
+
+June 3rd (Tue) AM  catch david_rothstein missing
+(effulgentsia cottser maybe)
+(gã¡bor hojtsy remote)
+
+June 3rd (Tue) PM  catch david_rothstein gã¡bor hojtsy missing
+(effulgentsia joelpittet cottser maybe)
+
+June 4th (Wed) AM  catch david_rothstein missing
+(effulgentsia cottser maybe)
+(gã¡bor hojtsy remote)
+
+June 4th (Wed) PM  catch david_rothstein gã¡bor hojtsy missing
+(effulgentsia joelpittet cottser maybe)
+
+June 5th (Thu) AM  catch david_rothstein missing
+(effulgentsia cottser maybe)
+(gã¡bor hojtsy remote)
+
+June 5th (Thu) PM  catch david_rothstein gã¡bor hojtsy missing
+(effulgentsia cottser maybe)
+
+June 6th (Fri) AM  catch david_rothstein missing
+(gã¡bor hojtsy remote)
+
+June 6th (Fri) PM  catch david_rothstein gã¡bor hojtsy missing
+
+
+*************************
+Possible times for Translation circular dependencies:
+
+May 31st (Sat) AM  catch gã¡bor hojtsy sun missing
+(tim.plunkett maybe)
+(berdir remote)
+
+May 31st (Sat) PM  catch gã¡bor hojtsy sun missing
+(tim.plunkett maybe)
+(berdir remote)
+
+June 1st (Sun) AM  catch gã¡bor hojtsy sun missing
+(tim.plunkett maybe)
+(berdir remote)
+
+June 1st (Sun) PM  catch gã¡bor hojtsy sun missing
+(tim.plunkett maybe)
+(berdir remote)
+
+June 2nd (Mon) AM  catch sun missing
+(effulgentsia tim.plunkett maybe)
+(gã¡bor hojtsy berdir remote)
+
+June 2nd (Mon) PM  catch gã¡bor hojtsy sun missing
+(effulgentsia tim.plunkett maybe)
+(berdir remote)
+
+June 3rd (Tue) AM  catch berdir sun missing
+(alexpott xjm effulgentsia tim.plunkett maybe)
+(gã¡bor hojtsy remote)
+
+June 4th (Wed) AM  catch berdir sun missing
+(alexpott xjm effulgentsia tim.plunkett maybe)
+(gã¡bor hojtsy remote)
+
+June 5th (Thu) AM  catch berdir sun missing
+(alexpott xjm effulgentsia tim.plunkett maybe)
+(gã¡bor hojtsy remote)
+
+June 6th (Fri) AM  catch berdir sun missing
+(gã¡bor hojtsy remote)
+
+
+*************************
+Possible times for Entity Field API criticals review:
+***CHECK DRIES***
+
+May 31st (Sat) PM  yched swentel amateescu tstoeckler missing
+(plach maybe)
+(berdir remote)
+
+June 1st (Sun) AM  yched swentel amateescu tstoeckler missing
+(plach maybe)
+(berdir remote)
+
+June 1st (Sun) PM  yched amateescu tstoeckler missing
+(swentel plach maybe)
+(berdir remote)
+
+June 2nd (Mon) AM  amateescu plach tstoeckler missing
+(effulgentsia maybe)
+(berdir yched swentel remote)
+
+June 2nd (Mon) PM  yched swentel amateescu plach missing
+(effulgentsia tstoeckler maybe)
+(berdir remote)
+
+June 3rd (Tue) AM  berdir amateescu tstoeckler missing
+(xjm effulgentsia plach maybe)
+(yched swentel remote)
+
+June 4th (Wed) AM  berdir amateescu tstoeckler missing
+(xjm effulgentsia plach maybe)
+(yched swentel remote)
+
+June 4th (Wed) PM  berdir yched swentel amateescu missing
+(xjm effulgentsia plach tstoeckler maybe)
+
+June 5th (Thu) AM  berdir amateescu tstoeckler missing
+(xjm effulgentsia plach maybe)
+(yched swentel remote)
+
+June 5th (Thu) PM  berdir yched swentel amateescu missing
+(xjm effulgentsia plach tstoeckler maybe)
+
+June 6th (Fri) AM  berdir amateescu tstoeckler missing
+(yched swentel remote)
+
+June 7th (Sat) AM  effulgentsia yched amateescu tstoeckler missing
+(berdir swentel remote)
+
+
+*************************
+Possible times for Plugins and config dependencies: General:
+***CHECK DRIES***
+
+May 31st (Sat) AM  gã¡bor hojtsy mtift yched swentel missing
+(tim.plunkett maybe)
+(berdir remote)
+
+May 31st (Sat) PM  gã¡bor hojtsy mtift yched swentel missing
+(tim.plunkett maybe)
+(berdir remote)
+
+June 1st (Sun) AM  gã¡bor hojtsy mtift yched swentel missing
+(tim.plunkett maybe)
+(berdir remote)
+
+June 1st (Sun) PM  gã¡bor hojtsy yched missing
+(tim.plunkett mtift swentel maybe)
+(berdir remote)
+
+June 2nd (Mon) AM
+(effulgentsia tim.plunkett maybe)
+(gã¡bor hojtsy berdir yched swentel remote)
+
+June 2nd (Mon) PM  gã¡bor hojtsy yched swentel missing
+(effulgentsia tim.plunkett maybe)
+(berdir remote)
+
+June 3rd (Tue) AM  berdir missing
+(alexpott xjm effulgentsia tim.plunkett mtift maybe)
+(gã¡bor hojtsy yched swentel remote)
+
+June 3rd (Tue) PM  gã¡bor hojtsy berdir yched swentel missing
+(alexpott xjm effulgentsia tim.plunkett mtift maybe)
+
+June 4th (Wed) AM  berdir missing
+(alexpott xjm effulgentsia tim.plunkett mtift maybe)
+(gã¡bor hojtsy yched swentel remote)
+
+June 4th (Wed) PM  gã¡bor hojtsy berdir yched swentel missing
+(alexpott xjm effulgentsia tim.plunkett mtift maybe)
+
+June 5th (Thu) AM  berdir missing
+(alexpott xjm effulgentsia tim.plunkett mtift maybe)
+(gã¡bor hojtsy yched swentel remote)
+
+June 5th (Thu) PM  gã¡bor hojtsy berdir yched swentel missing
+(alexpott xjm effulgentsia tim.plunkett mtift maybe)
+
+June 6th (Fri) AM  berdir missing
+(gã¡bor hojtsy yched swentel remote)
+
+June 6th (Fri) PM  gã¡bor hojtsy berdir yched swentel missing
+
+June 7th (Sat) AM  effulgentsia gã¡bor hojtsy yched missing
+(berdir swentel remote)
+
+June 7th (Sat) PM  effulgentsia gã¡bor hojtsy yched swentel missing
+(berdir remote)
+
+June 8th (Sun) AM  effulgentsia gã¡bor hojtsy yched swentel missing
+(mtift maybe)
+(berdir remote)
+
+
+*************************
+Possible times for Entity Display issue:
+
+May 31st (Sat) PM  mtift fago yched swentel amateescu missing
+(tim.plunkett maybe)
+(berdir remote)
+
+June 1st (Sun) AM  mtift yched swentel amateescu missing
+(tim.plunkett fago maybe)
+(berdir remote)
+
+June 1st (Sun) PM  yched amateescu missing
+(tim.plunkett mtift fago swentel maybe)
+(berdir remote)
+
+June 2nd (Mon) AM  amateescu missing
+(effulgentsia tim.plunkett fago maybe)
+(berdir yched swentel remote)
+
+June 2nd (Mon) PM  yched swentel amateescu missing
+(effulgentsia tim.plunkett fago maybe)
+(berdir remote)
+
+June 3rd (Tue) AM  berdir amateescu missing
+(alexpott xjm effulgentsia tim.plunkett mtift fago maybe)
+(yched swentel remote)
+
+June 3rd (Tue) PM  berdir yched swentel amateescu missing
+(alexpott xjm effulgentsia tim.plunkett mtift fago maybe)
+
+June 4th (Wed) AM  berdir amateescu missing
+(alexpott xjm effulgentsia tim.plunkett mtift fago maybe)
+(yched swentel remote)
+
+June 4th (Wed) PM  berdir yched swentel amateescu missing
+(alexpott xjm effulgentsia tim.plunkett mtift fago maybe)
+
+June 5th (Thu) AM  berdir amateescu missing
+(alexpott xjm effulgentsia tim.plunkett mtift fago maybe)
+(yched swentel remote)
+
+June 5th (Thu) PM  berdir yched swentel amateescu missing
+(alexpott xjm effulgentsia tim.plunkett mtift fago maybe)
+
+June 6th (Fri) AM  berdir amateescu missing
+(yched swentel remote)
+
+June 6th (Fri) PM  berdir yched swentel amateescu missing
+
+June 7th (Sat) AM  effulgentsia yched amateescu missing
+(fago maybe)
+(berdir swentel remote)
+
+June 7th (Sat) PM  effulgentsia yched swentel amateescu missing
+(fago maybe)
+(berdir remote)
+
+June 8th (Sun) AM  effulgentsia yched swentel amateescu missing
+(mtift fago maybe)
+(berdir remote)
+
+
+*************************
+Possible times for Translation synch:
+
+May 31st (Sat) PM  gã¡bor hojtsy mtift fago missing
+(plach maybe)
+
+June 1st (Sun) AM  gã¡bor hojtsy mtift missing
+(fago plach maybe)
+
+June 1st (Sun) PM  gã¡bor hojtsy missing
+(mtift fago plach maybe)
+
+June 2nd (Mon) AM  plach missing
+(effulgentsia fago maybe)
+(gã¡bor hojtsy remote)
+
+June 2nd (Mon) PM  gã¡bor hojtsy plach missing
+(effulgentsia fago maybe)
+
+June 3rd (Tue) AM
+(alexpott xjm effulgentsia mtift fago plach maybe)
+(gã¡bor hojtsy remote)
+
+June 3rd (Tue) PM  gã¡bor hojtsy missing
+(alexpott xjm effulgentsia mtift fago plach maybe)
+
+June 4th (Wed) AM
+(alexpott xjm effulgentsia mtift fago plach maybe)
+(gã¡bor hojtsy remote)
+
+June 4th (Wed) PM  gã¡bor hojtsy missing
+(alexpott xjm effulgentsia mtift fago plach maybe)
+
+June 5th (Thu) AM
+(alexpott xjm effulgentsia mtift fago plach maybe)
+(gã¡bor hojtsy remote)
+
+June 5th (Thu) PM  gã¡bor hojtsy missing
+(alexpott xjm effulgentsia mtift fago plach maybe)
+
+June 6th (Fri) AM
+(gã¡bor hojtsy remote)
+
+June 6th (Fri) PM  gã¡bor hojtsy missing
+
+June 7th (Sat) AM  effulgentsia gã¡bor hojtsy missing
+(fago maybe)
+
+June 7th (Sat) PM  effulgentsia gã¡bor hojtsy missing
+(fago maybe)
+
+June 8th (Sun) AM  effulgentsia gã¡bor hojtsy plach missing
+(mtift fago maybe)
+
+
+*************************
+Possible times for {comment}:
+
+May 31st (Sat) AM  catch larowlan andypost missing
+(berdir remote)
+
+May 31st (Sat) PM  catch andypost missing
+(larowlan maybe)
+(berdir remote)
+
+June 1st (Sun) AM  catch larowlan andypost missing
+(berdir remote)
+
+June 1st (Sun) PM  catch andypost missing
+(larowlan maybe)
+(berdir remote)
+
+June 2nd (Mon) PM  catch andypost dixon_ missing
+(effulgentsia larowlan maybe)
+(berdir remote)
+
+June 3rd (Tue) PM  catch berdir andypost missing
+(xjm effulgentsia larowlan dixon_ maybe)
+
+June 4th (Wed) PM  catch berdir andypost missing
+(xjm effulgentsia larowlan dixon_ maybe)
+
+June 5th (Thu) PM  catch berdir andypost missing
+(xjm effulgentsia larowlan dixon_ maybe)
+
+June 6th (Fri) PM  catch berdir andypost missing
+(larowlan maybe)
+
+June 7th (Sat) PM  catch effulgentsia andypost missing
+(larowlan maybe)
+(berdir remote)
+
+
+*************************
+Possible times for CommentType:
+
+May 31st (Sat) PM  gã¡bor hojtsy mtift andypost missing
+(larowlan maybe)
+(berdir remote)
+
+June 1st (Sun) AM  gã¡bor hojtsy mtift larowlan andypost missing
+(berdir remote)
+
+June 1st (Sun) PM  gã¡bor hojtsy andypost missing
+(mtift larowlan maybe)
+(berdir remote)
+
+June 2nd (Mon) AM  larowlan andypost dixon_ missing
+(gã¡bor hojtsy berdir remote)
+
+June 2nd (Mon) PM  gã¡bor hojtsy andypost dixon_ missing
+(larowlan maybe)
+(berdir remote)
+
+June 3rd (Tue) AM  berdir larowlan andypost missing
+(alexpott xjm mtift dixon_ maybe)
+(gã¡bor hojtsy remote)
+
+June 3rd (Tue) PM  gã¡bor hojtsy berdir andypost missing
+(alexpott xjm mtift larowlan dixon_ maybe)
+
+June 4th (Wed) AM  berdir larowlan andypost missing
+(alexpott xjm mtift dixon_ maybe)
+(gã¡bor hojtsy remote)
+
+June 4th (Wed) PM  gã¡bor hojtsy berdir andypost missing
+(alexpott xjm mtift larowlan dixon_ maybe)
+
+June 5th (Thu) AM  berdir larowlan andypost dixon_ missing
+(alexpott xjm mtift maybe)
+(gã¡bor hojtsy remote)
+
+June 5th (Thu) PM  gã¡bor hojtsy berdir andypost missing
+(alexpott xjm mtift larowlan dixon_ maybe)
+
+June 6th (Fri) AM  berdir larowlan andypost missing
+(gã¡bor hojtsy remote)
+
+June 6th (Fri) PM  gã¡bor hojtsy berdir andypost missing
+(larowlan maybe)
+
+June 7th (Sat) AM  gã¡bor hojtsy larowlan andypost missing
+(berdir remote)
+
+June 7th (Sat) PM  gã¡bor hojtsy andypost missing
+(larowlan maybe)
+(berdir remote)
+
+June 8th (Sun) AM  gã¡bor hojtsy larowlan andypost missing
+(mtift maybe)
+(berdir remote)
+
+
+*************************
+Possible times for Config depends on content:
+
+May 31st (Sat) AM  moshe weitzman yched larowlan missing
+(tim.plunkett maybe)
+(berdir remote)
+
+May 31st (Sat) PM  moshe weitzman yched missing
+(tim.plunkett larowlan maybe)
+(berdir remote)
+
+June 1st (Sun) AM  moshe weitzman yched larowlan missing
+(tim.plunkett maybe)
+(berdir remote)
+
+June 1st (Sun) PM  moshe weitzman yched missing
+(tim.plunkett larowlan maybe)
+(berdir remote)
+
+June 2nd (Mon) AM  larowlan dixon_ missing
+(effulgentsia tim.plunkett maybe)
+(berdir yched remote)
+
+June 2nd (Mon) PM  yched dixon_ missing
+(effulgentsia tim.plunkett larowlan maybe)
+(berdir remote)
+
+June 3rd (Tue) AM  berdir larowlan missing
+(alexpott xjm effulgentsia moshe weitzman tim.plunkett dixon_ maybe)
+(yched remote)
+
+June 3rd (Tue) PM  berdir yched missing
+(alexpott xjm effulgentsia moshe weitzman tim.plunkett larowlan dixon_ maybe)
+
+June 4th (Wed) AM  berdir larowlan missing
+(alexpott xjm effulgentsia moshe weitzman tim.plunkett dixon_ maybe)
+(yched remote)
+
+June 4th (Wed) PM  berdir yched missing
+(alexpott xjm effulgentsia moshe weitzman tim.plunkett larowlan dixon_ maybe)
+
+June 5th (Thu) AM  berdir larowlan dixon_ missing
+(alexpott xjm effulgentsia moshe weitzman tim.plunkett maybe)
+(yched remote)
+
+June 5th (Thu) PM  berdir yched missing
+(alexpott xjm effulgentsia moshe weitzman tim.plunkett larowlan dixon_ maybe)
+
+June 6th (Fri) AM  berdir larowlan missing
+(yched remote)
+
+June 6th (Fri) PM  berdir yched missing
+(larowlan maybe)
+
+June 7th (Sat) AM  effulgentsia moshe weitzman yched larowlan missing
+(berdir remote)
+
+June 7th (Sat) PM  effulgentsia moshe weitzman yched missing
+(larowlan maybe)
+(berdir remote)
+
+June 8th (Sun) AM  effulgentsia moshe weitzman yched larowlan missing
+(berdir remote)
+
+June 8th (Sun) PM  effulgentsia moshe weitzman yched dixon_ missing
+(tim.plunkett larowlan maybe)
+(berdir remote)
+
+
+*************************
+Possible times for ******************* Beta blocker sprint checkins:
+
+June 1st (Sun) PM  moshe weitzman eclipsegc missing
+(crell sdboyer maybe)
+
+June 2nd (Mon) AM
+(effulgentsia cosmicdreams maybe)
+
+June 2nd (Mon) PM  eclipsegc missing
+(effulgentsia cosmicdreams maybe)
+
+June 3rd (Tue) AM  crell cosmicdreams missing
+(alexpott xjm effulgentsia moshe weitzman sdboyer maybe)
+
+June 3rd (Tue) PM  crell cosmicdreams missing
+(alexpott xjm effulgentsia moshe weitzman sdboyer maybe)
+
+June 4th (Wed) AM  crell sdboyer cosmicdreams missing
+(alexpott xjm effulgentsia moshe weitzman maybe)
+
+June 4th (Wed) PM  crell sdboyer cosmicdreams missing
+(alexpott xjm effulgentsia moshe weitzman maybe)
+
+June 5th (Thu) AM  crell cosmicdreams missing
+(alexpott xjm effulgentsia moshe weitzman maybe)
+
+June 5th (Thu) PM  crell cosmicdreams missing
+(alexpott xjm effulgentsia moshe weitzman maybe)
+
+June 6th (Fri) AM  sdboyer cosmicdreams missing
+
+June 6th (Fri) PM  eclipsegc sdboyer cosmicdreams missing
+
+
+*************************
+Possible times for Review 'revisit before release':
+***CHECK DRIES***
+
+May 31st (Sat) AM  catch missing
+
+May 31st (Sat) PM  catch missing
+
+June 1st (Sun) AM  catch missing
+
+June 1st (Sun) PM  catch missing
+
+June 2nd (Mon) AM  catch missing
+(effulgentsia maybe)
+
+June 2nd (Mon) PM  catch missing
+(effulgentsia maybe)
+
+June 3rd (Tue) AM  catch missing
+(alexpott xjm effulgentsia maybe)
+
+June 3rd (Tue) PM  catch missing
+(alexpott xjm effulgentsia maybe)
+
+June 4th (Wed) AM  catch missing
+(alexpott xjm effulgentsia maybe)
+
+June 4th (Wed) PM  catch missing
+(alexpott xjm effulgentsia maybe)
+
+June 5th (Thu) AM  catch missing
+(alexpott xjm effulgentsia maybe)
+
+June 5th (Thu) PM  catch missing
+(alexpott xjm effulgentsia maybe)
+
+June 6th (Fri) AM  catch missing
+
+June 6th (Fri) PM  catch missing
+
+June 7th (Sat) AM  catch effulgentsia missing
+
+June 7th (Sat) PM  catch effulgentsia missing
+
+June 8th (Sun) AM  catch effulgentsia missing
+
+June 8th (Sun) PM  catch effulgentsia missing
+
+
+*************************
+Possible times for D8 release management checkin:
+***CHECK DRIES***
+
+May 31st (Sat) AM  catch jessebeach moshe weitzman missing
+
+May 31st (Sat) PM  catch moshe weitzman missing
+
+June 1st (Sun) AM  catch moshe weitzman missing
+
+June 1st (Sun) PM  catch moshe weitzman missing
+
+June 2nd (Mon) AM  catch missing
+(effulgentsia maybe)
+
+June 2nd (Mon) PM  catch missing
+(effulgentsia maybe)
+
+June 3rd (Tue) AM  catch missing
+(alexpott xjm effulgentsia moshe weitzman maybe)
+
+June 3rd (Tue) PM  catch missing
+(alexpott xjm effulgentsia moshe weitzman maybe)
+
+June 4th (Wed) AM  catch missing
+(alexpott xjm effulgentsia moshe weitzman maybe)
+
+June 4th (Wed) PM  catch missing
+(alexpott xjm effulgentsia moshe weitzman maybe)
+
+June 5th (Thu) AM  catch missing
+(alexpott xjm effulgentsia moshe weitzman maybe)
+
+June 5th (Thu) PM  catch missing
+(alexpott xjm effulgentsia moshe weitzman maybe)
+
+June 6th (Fri) AM  catch missing
+
+June 6th (Fri) PM  catch missing
+
+June 7th (Sat) AM  catch effulgentsia moshe weitzman missing
+
+June 7th (Sat) PM  catch effulgentsia moshe weitzman missing
+
+June 8th (Sun) AM  catch effulgentsia moshe weitzman missing
+
+
+*************************
+Possible times for PSR-4:
+
+
+
+*************************
+Possible times for D6 security:
+***CHECK DRIES***
+
+
+
+*************************
+Possible times for Dropping MyISAM support:
+***CHECK DRIES***
+
+June 2nd (Mon) AM  catch david_rothstein mikeytown2 missing
+(effulgentsia maybe)
+
+June 2nd (Mon) PM  catch david_rothstein mikeytown2 missing
+(effulgentsia maybe)
+
+June 6th (Fri) AM  catch david_rothstein mikeytown2 missing
+
+June 6th (Fri) PM  catch david_rothstein mikeytown2 missing
+
+
+*************************
+Possible times for Testbot update:
+*******
+All: May 31st (Sat) AM, May 31st (Sat) PM, June 1st (Sun) AM, June 1st (Sun) PM, June 6th (Fri) AM, June 6th (Fri) PM
+*******
+
+June 2nd (Mon) AM
+(effulgentsia jthorson maybe)
+
+June 2nd (Mon) PM
+(effulgentsia jthorson maybe)
+
+June 3rd (Tue) AM
+(alexpott xjm effulgentsia jthorson maybe)
+
+June 3rd (Tue) PM
+(alexpott xjm effulgentsia jthorson maybe)
+
+June 4th (Wed) AM
+(alexpott xjm effulgentsia jthorson maybe)
+
+June 4th (Wed) PM  jthorson missing
+(alexpott xjm effulgentsia maybe)
+
+June 5th (Thu) AM
+(alexpott xjm effulgentsia jthorson maybe)
+
+June 5th (Thu) PM  jthorson missing
+(alexpott xjm effulgentsia maybe)
+
+June 7th (Sat) AM  effulgentsia missing
+
+June 7th (Sat) PM  effulgentsia missing
+
+June 8th (Sun) AM  effulgentsia missing
+
+June 8th (Sun) PM  effulgentsia missing
+
+
+*************************
+Possible times for Context API and contrib:
+
+June 2nd (Mon) AM
+(tim.plunkett fago maybe)
+(yched remote)
+
+June 3rd (Tue) AM
+(tim.plunkett fago maybe)
+(yched remote)
+
+June 3rd (Tue) PM  yched missing
+(tim.plunkett fago maybe)
+
+June 4th (Wed) AM
+(tim.plunkett fago maybe)
+(yched remote)
+
+June 4th (Wed) PM  yched missing
+(tim.plunkett fago maybe)
+
+June 5th (Thu) AM
+(tim.plunkett fago maybe)
+(yched remote)
+
+June 5th (Thu) PM  yched missing
+(tim.plunkett fago maybe)
+
+June 6th (Fri) AM
+(yched remote)
+
+
+
