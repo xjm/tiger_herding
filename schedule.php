@@ -12,11 +12,11 @@ const M_HEADER_ROWS = 3;
 // - The second column is if they are a stakeholder in the sheet.
 // - The third column is if they've been emailed yet.
 // - The fourth column is if they've replied.
-const M_HEADER_COLS = 4;
+const M_HEADER_COLS = 5;
 
 // Currently there are this many metadata rows before the timeslot row.
 $a_csv = file('./availability.csv');
-const A_PRE_HEADER_ROWS = 0;
+const A_PRE_HEADER_ROWS = 9;
 
 // Get the meeting names from the first header row and remove it.
 $meeting_names = array_shift($m_csv);
@@ -42,8 +42,9 @@ array_walk($a_csv, function(&$row) {
   $row = explode(',', $row);
 });
 
-// Get the names of the timeslots and remove the first two name columns.
+// Get the names of the timeslots and remove the first three name columns.
 $timeslots = array_shift($a_csv);
+array_shift($timeslots);
 array_shift($timeslots);
 array_shift($timeslots);
 
