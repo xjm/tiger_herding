@@ -12,6 +12,7 @@ const M_HEADER_ROWS = 3;
 // - The second column is if they are a stakeholder in the sheet.
 // - The third column is if they've been emailed yet.
 // - The fourth column is if they've replied.
+// - The fifth column is the meeting attendance count.
 const M_HEADER_COLS = 5;
 
 // Currently there are this many metadata rows before the timeslot row.
